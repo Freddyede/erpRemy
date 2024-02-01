@@ -1,0 +1,7 @@
+{% extends 'bases/base.html.twig' %}
+
+{% block title(controller_name) %}
+
+{% block content %}
+    {{ component('titlePage', {'title': controller_name}) }}
+{% endblock %}
