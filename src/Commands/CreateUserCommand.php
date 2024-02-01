@@ -16,6 +16,7 @@ use Symfony\Component\Console\Output\OutputInterface;
     hidden: false
 )]
 /**
+ * Test pull request
  * Terminal run:
  * <br>
  *  - command with : `symfony console database:count-user
